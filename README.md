@@ -1,4 +1,4 @@
-# Implementing Artificial Intelligence to Detect Emotions 🤖📈
+# Artificial Intelligence to Detect Emotions 🤖📈
 
 ## Project Description
 
